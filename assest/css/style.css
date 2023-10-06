@@ -179,8 +179,17 @@ header{
     padding: 50px 50px;
 }
 
+.container .section-2 .col-md-12 img{
+    margin-top: 90px;
+}
+
 .container .section-2 .col-md-12 .row-3 .col-md-5-1 h1 {
     color: red;
+}
+
+.container .section-2 .col-md-12  .input-group {
+    margin-left: 10px;
+    margin-bottom: 70px;
 }
 
 .container .section-2 .col-md-12 .row-3 .col-md-5-1 .col-md-12 .row .col-md-10 p {
