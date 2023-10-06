@@ -9,6 +9,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.container {
+    padding: 0 auto;
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
 header{
     background-color: #041B33;
     width: 100%;
@@ -349,7 +355,14 @@ footer .col-md-12 .row .col-md-5 span {
     }
 }
 
+footer .col-md-3 .img-fluid{
+    margin-top: 120px;
+    margin-left: -100px;
+}
 
+/* .input_btn {
+    margin-left: -300px;
+} */
 
 .container .section-9 .col-md-12 .row .col-md-7 .btn-submit {
     background-color: orangered;
